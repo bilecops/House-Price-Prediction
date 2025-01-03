@@ -4,8 +4,6 @@ import numpy as np
 import math
 import datetime
 import gdown
-import logging
-logging.basicConfig(level=logging.DEBUG)
 
 # Load the trained Random Forest model for Landed
 
