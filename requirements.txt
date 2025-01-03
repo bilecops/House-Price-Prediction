@@ -1,6 +1,6 @@
-streamlit as st
-import joblib
-import numpy as np
-import math
-import datetime
-import gdown
+streamlit
+joblib
+numpy
+math
+datetime
+gdown
