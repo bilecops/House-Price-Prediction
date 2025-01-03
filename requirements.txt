@@ -4,3 +4,4 @@ numpy
 math
 datetime
 gdown
+pip==24.3.1
